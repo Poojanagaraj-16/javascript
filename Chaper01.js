@@ -1,2 +1,8 @@
-let a=10;
-console.log("10");
+/*var a=10
+console.log(a)
+if(true){
+    
+    var a=120
+    console.log(a)
+    
+}*//
